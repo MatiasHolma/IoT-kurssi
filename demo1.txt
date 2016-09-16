@@ -1,0 +1,8 @@
+Github pistetty  2p
+Rasbpian asennettu ja konfiguroitu. 5p
+Etäyhteys. 3p
+
+192.168.1.114
+portti:5901
+ifconfig
+tightvncserver
