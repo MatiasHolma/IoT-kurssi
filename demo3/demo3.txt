@@ -1,0 +1,21 @@
+Tehtävä 3.1
+Sensori liitetty oikein raspiin ja sensorin lähettämää dataa saa kirjoitettua näyttöön. 1p
+
+Tehtävä 3.2
+Datan saa lähetettyä Google Sheetsiin 1p
+Raspille on olemassa App Engine Service Account tai Compute Engine Service Account. 1p
+OAuth:n tarvitsema Service Account Key -tiedosto (json) on raspilla 1p
+Data päivittyy Sheetsiin 1p
+
+Tehtävä 3.3 & 3.4
+kuva ja video 1p
+
+Tehtävä 3.5
+liiketunnistin ja kamera 2p
+
+
+Tehtävä 3.6 2p:
+Menin croniin komennolla:
+crontab -e
+Tein croniin rivin:
+00 * * * * python demo3teht36.py

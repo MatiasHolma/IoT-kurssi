@@ -1,0 +1,54 @@
+punainen1:
+* #26: -> A1
+* B1 (led) B2
+* A2 (vastus) A4
+* B4 -> ulkokeha
+* ulkokeha -> GND
+
+keltainen1:
+* #19: -> A5
+* B5 (led) B6
+* A6 (vastus) A8
+* B8 -> ulkokeha
+* ulkokeha -> GND
+
+punainen1:
+* #13: -> A9
+* B9 (led) B10
+* A10 (vastus) A12
+* B12 -> ulkokeha
+* ulkokeha -> GND
+
+punainen2:
+* #21: -> I1
+* J1 (led) J2
+* I2 (vastus) I4
+* J4 -> ulkokeha
+* ulkokeha -> GND
+
+
+keltainen2:
+* #20: -> I5
+* J5 (led) J6
+* I6 (vastus) I8
+* J8 -> ulkokeha
+* ulkokeha -> GND
+
+vihrea2:
+* #16: -> I9
+* J9 (led) J10
+* I10 (vastus) I12
+* J12-> ulkokeha
+* ulkokeha -> GDN
+
+
+
+nappi:
+* #24: B50 -> C00
+* painike: E00 & F00
+* G00 -> GND
+
+pir:
+* #18
+* 5V
+* GND

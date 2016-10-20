@@ -1,0 +1,11 @@
+Led:
+* #17: -> A32
+* C32 (led) C33
+* E33 (vastus) E35
+* E33 -> GND
+
+
+nappi:
+* #22: B50 -> C00
+* painike: E00 & F00
+* G00 -> GND

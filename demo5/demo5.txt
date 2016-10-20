@@ -1,0 +1,5 @@
+5.1:
+Toimiva pir/led -yhdistelmä, 3p
+
+5.2:
+Toimivat liikennevalot napilla ja pirilla 7p

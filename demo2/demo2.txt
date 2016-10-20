@@ -1,0 +1,18 @@
+Tehtävä 2.1
+ledi vilkkuu 1p
+
+
+Tehtävä 2.2
+Painiketta painamalla sytytetään ledi koodin avulla 1p
+Liikkeentunnistimen tilan saa näyttöön 1p
+
+Tehtävä 2.3
+Liitännät oikein 2p
+Liikennevalojen koodaus on toimiva 2p
+
+Tehtävä 2.4
+Merkkivalo syttyy, kun nappia painaa ja sammuu, kun jalankulkijoiden valo muuttuu vihreäksi 1p
+Painikkeelle on tehty alasvetovastus kytkennöillä 1p
+
+Tehtävä 2.5
+Liikkeentunnistimen havaitessa liikettä viivästyy jalankulkijoiden vihreäksi vaihtuminen 1p

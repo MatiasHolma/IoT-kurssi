@@ -1,0 +1,13 @@
+Tehtävä 4.1
+Motion asennettu ja se tallentaa kuvat ja lokin eri tiedostoon kuin oletustiedosto.1p
+
+Tehtävä 4.2: Motion tallentaa 2 kuvaa ennen liikettä ja jatkaa kuvien ottamista viiden sekunnin ajan liikkeen jälkeen. Palauta config-tiedoston muutokset 1p
+
+Tehtävä 4.4: Muuta motion.conf-tiedostoa niin, että se tallentaa kuvan vain kun kuvan keskellä havaitaan liikettä. Palauta config-tiedoston muutokset ja mahdollinen maskikuva 2p
+
+Tehtävä 4.5:
+OpenCV asennettu onnistuneesti 2p
+-Näytin demossa
+
+Tehtävä 4.6: 
+kuvan piirteiden vertailu. 1p
