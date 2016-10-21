@@ -1,0 +1,11 @@
+Led:
+* #6: -> A32
+* C32 (led) C33
+* E33 (vastus) E35
+* E33 -> GND
+
+
+pir:
+* #22
+* 5V
+* GND
